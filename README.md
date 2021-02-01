@@ -72,15 +72,15 @@ The checkpoints with and without LS will be under ```./model_storage/[baseline]/
 
 The full training data of all LS configurations for each baseline are saved under ```./model_storage/[baseline]/hyperdict_fuzzy.p```.
 
-For ULMFiT, the fine-tuned language model on domain-specific task is saved under ```./model_storage/ulmfit/finetuned.pth```
+For ```ULMFiT```, the fine-tuned language model on domain-specific task is saved under ```./model_storage/ulmfit/finetuned.pth```
 
 ### Inference
 The inference process of all baselines both with and without LS are saved in corresponding jupyter notebooks with results of our checkpoint models shown under ```./[baseline]_inference.ipynb```.
 
-These notebooks include model architecture, inference on pretrained language model (only for ```ULMFiT```), the performance on test split, inference on single sentence examples, top k words (except for ```BERT```), attention visualization (only for ```GRU+Attn``` and ```BERT```), confusion matrices, and model performance on individual SD test dataset.
+These notebooks include model architecture, inference on pretrained language model (only for ```ULMFiT```), the performance on test split, inference on single sentence examples with inference time, top k words, attention visualization (only for ```GRU+Attn``` and ```BERT```), confusion matrices, and model performance on individual SD test dataset with inference time.
 
 ### Statistics and Graphs
-The analytical process on determining best LS configuration, the statistics on the OUV classes, and the generation of all graphs are demonstrated in the jupyter notebooks ```./LS_Experiments.ipynb``` and ```./Statistic_Test.ipynb```.
+The analytical process on determining best LS configuration, the statistics on the OUV classes, and the generation of all graphs are demonstrated in the jupyter notebooks ```./LS_Experiments.ipynb``` and ```./Statistic_Test.ipynb```, respectively.
 
 ### LS Experiments
 The results of LS experiments under 10 random seeds are saved under the repository ```./LS_exp/[baseline]/[seed]/hyperdict_fuzzy.p```.
@@ -114,5 +114,5 @@ The Sheet ```Results``` is a transformation of ```Per_Class``` for saving ```./R
 
 
 ### Results for each Baseline
-For each baseline, five csv files (4 for ```BERT```) are saved under ```./Results/[baseline]/```, including ```confusion_matrix.csv``` and ```per_class_metrics.csv``` for best models with LS and the baselines, and ```top_words.csv``` indicating the top N-gram keywords predicted for each UV criteria (except for ```BERT```).
+For each baseline, five csv files are saved under ```./Results/[baseline]/```, including ```confusion_matrix.csv``` and ```per_class_metrics.csv``` for best models with LS and the baselines, and ```top_words.csv``` indicating the top N-gram keywords predicted for each OUV criterion with the highest confidence score.
 
