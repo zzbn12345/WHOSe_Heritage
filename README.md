@@ -1,5 +1,5 @@
 # WHOSe Heritage
-This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World Heritage “Outstanding Universal Value” Documents with Smoothed Labels*' submitted for ArXiv Preprint.
+This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World Heritage “Outstanding Universal Value” Documents with Smoothed Labels*' submitted for arXiv Preprint.
 
 ## Requirment and Dependency
 [bertviz](https://github.com/jessevig/bertviz) (please download the repository ```bertviz``` and put under the root as ```./bertviz```)
