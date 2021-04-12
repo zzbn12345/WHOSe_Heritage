@@ -1,6 +1,11 @@
 # WHOSe Heritage
 This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World Heritage “Outstanding Universal Value” Documents with Smoothed Labels*' submitted for arXiv Preprint.
+
 [![DOI](https://zenodo.org/badge/334622375.svg)](https://zenodo.org/badge/latestdoi/334622375)
+
+# Cite as
+
+Nan, Bai, & Renqian, Luo. (2021, April 12). WHOSe_Heritage: arXiv supplementary material (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.4680508
 
 ## Requirment and Dependency
 [bertviz](https://github.com/jessevig/bertviz) (please download the repository ```bertviz``` and put under the root as ```./bertviz```)
