@@ -3,7 +3,7 @@ This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World 
 
 [![DOI](https://zenodo.org/badge/334622375.svg)](https://zenodo.org/badge/latestdoi/334622375)
 
-# Cite as
+## Cite as
 
 Nan, Bai, & Renqian, Luo. (2021, April 12). WHOSe_Heritage: arXiv supplementary material (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.4680508
 
