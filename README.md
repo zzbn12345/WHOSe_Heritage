@@ -120,5 +120,5 @@ The Sheet ```Results``` is a transformation of ```Per_Class``` for saving ```./R
 
 
 ### Results for each Baseline
-For each baseline, five csv files are saved under ```./Results/[baseline]/```, including ```confusion_matrix.csv``` and ```per_class_metrics.csv``` for best models with LS and the baselines, and ```top_words.csv``` indicating the top 50 N-gram keywords (1- to 5- Grams) predicted for each OUV criterion with the highest confidence score.
+For each baseline, five csv files are saved under ```./Results/[baseline]/```, including ```confusion_matrix.csv``` and ```per_class_metrics.csv``` for best models with LS and the baselines, and ```top_words.csv``` indicating the top 50 N-Gram keywords (1- to 5- Grams) predicted for each OUV criterion with the highest confidence score.
 
