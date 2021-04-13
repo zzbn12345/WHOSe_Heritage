@@ -19,6 +19,17 @@ Nan, Bai, & Renqian, Luo. (2021, April 12). WHOSe_Heritage: arXiv supplementary 
   url          = {https://doi.org/10.5281/zenodo.4680508}
 }
 ```
+or
+```
+@misc{bai2021heritage,
+      title={WHOSe Heritage: Classification of UNESCO World Heritage "Outstanding Universal Value" Documents with Smoothed Labels}, 
+      author={Nan Bai and Renqian Luo and Pirouz Nourian and Ana Pereira Roders},
+      year={2021},
+      eprint={2104.05547},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 ## Requirment and Dependency
 [bertviz](https://github.com/jessevig/bertviz) (please download the repository ```bertviz``` and put under the root as ```./bertviz```)
 
