@@ -5,18 +5,18 @@ This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World 
 
 ## Cite as
 
-Nan, Bai, & Renqian, Luo. (2021, April 12). WHOSe_Heritage: arXiv supplementary material (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.4680508
+Nan, Bai, & Renqian, Luo. (2021, Sep 6). WHOSe_Heritage: Supplementary material for WHOSe Heritage (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.5463898
 ```
-@software{nan_bai_2021_4680508,
+@software{nan_bai_2021_5463898,
   author       = {Nan, Bai and
                   Renqian, Luo},
-  title        = {WHOSe\_Heritage: arXiv supplementary material},
-  month        = apr,
+  title        = {WHOSe\_Heritage: Supplementary material for WHOSe Heritage},
+  month        = sep,
   year         = 2021,
   publisher    = {Zenodo},
-  version      = {v1.1},
-  doi          = {10.5281/zenodo.4680508},
-  url          = {https://doi.org/10.5281/zenodo.4680508}
+  version      = {v2.0},
+  doi          = {10.5281/zenodo.5463898},
+  url          = {https://doi.org/10.5281/zenodo.5463898}
 }
 ```
 or
