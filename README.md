@@ -22,10 +22,10 @@ Nan, Bai, & Renqian, Luo. (2021, Sep 6). WHOSe_Heritage: Supplementary material 
 or
 ```
 @misc{bai2021heritage,
-      title={WHOSe Heritage: Classification of UNESCO World Heritage "Outstanding Universal Value" Documents with Smoothed Labels}, 
+      title={WHOSe Heritage: Classification of UNESCO World Heritage "Outstanding Universal Value" Documents with Soft Labels}, 
       author={Nan Bai and Renqian Luo and Pirouz Nourian and Ana Pereira Roders},
       year={2021},
-      eprint={2104.05547},
+      eprint={2104.05547v2},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
