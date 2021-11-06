@@ -1,9 +1,29 @@
 # WHOSe Heritage
-This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World Heritage Statements of “Outstanding Universal Value” Documents with Soft Labels*' accepted by Findings of EMNLP 2021.
+This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World Heritage Statements of “Outstanding Universal Value” Documents with Soft Labels*' published in [Findings of EMNLP 2021](https://aclanthology.org/2021.findings-emnlp.34/).
 
 [![DOI](https://zenodo.org/badge/334622375.svg)](https://zenodo.org/badge/latestdoi/334622375)
 
 ## Cite as
+
+Bai, N., Luo, R., Nourian, P., & Pereira Roders, A. (2021). WHOSe Heritage: Classification of UNESCO World Heritage Statements of “Outstanding Universal Value” with Soft Labels. In Findings of the Association for Computational Linguistics: EMNLP 2021 (pp. 366-384). [34] Association for Computational Linguistics. https://aclanthology.org/2021.findings-emnlp.34/
+```
+@inproceedings{bai-etal-2021-whose-heritage,
+    title = "{WHOS}e {H}eritage: {C}lassification of {UNESCO} {W}orld {H}eritage Statements of ''{O}utstanding {U}niversal {V}alue{''} with Soft Labels",
+    author = "Bai, Nan  and
+      Luo, Renqian  and
+      Nourian, Pirouz  and
+      Pereira Roders, Ana",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.34",
+    pages = "366--384",
+}
+```
+
+or
 
 Nan, Bai, & Renqian, Luo. (2021, Sep 6). WHOSe_Heritage: Supplementary material for WHOSe Heritage (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.5463898
 ```
@@ -18,17 +38,7 @@ Nan, Bai, & Renqian, Luo. (2021, Sep 6). WHOSe_Heritage: Supplementary material 
   doi          = {10.5281/zenodo.5463898},
   url          = {https://doi.org/10.5281/zenodo.5463898}
 }
-```
-or
-```
-@misc{bai2021heritage,
-      title={WHOSe Heritage: Classification of UNESCO World Heritage "Outstanding Universal Value" Documents with Soft Labels}, 
-      author={Nan Bai and Renqian Luo and Pirouz Nourian and Ana Pereira Roders},
-      year={2021},
-      eprint={2104.05547v2},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+
 ```
 
 ## Requirment and Dependency
