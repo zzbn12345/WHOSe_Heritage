@@ -19,8 +19,10 @@ Bai, N., Luo, R., Nourian, P., & Pereira Roders, A. (2021). WHOSe Heritage: Clas
     address = "Punta Cana, Dominican Republic",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.findings-emnlp.34",
+    doi = "10.18653/v1/2021.findings-emnlp.34",
     pages = "366--384",
 }
+
 ```
 
 or
