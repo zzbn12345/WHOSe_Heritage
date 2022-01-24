@@ -1,6 +1,7 @@
 # WHOSe Heritage
 This is the Code for the Paper '*WHOSe Heritage: Classification of UNESCO World Heritage Statements of “Outstanding Universal Value” Documents with Soft Labels*' published in [Findings of EMNLP 2021](https://aclanthology.org/2021.findings-emnlp.34/).
 
+[![DOI](10.18653/v1/2021.findings-emnlp.34)](10.18653/v1/2021.findings-emnlp.34)
 [![DOI](https://zenodo.org/badge/334622375.svg)](https://zenodo.org/badge/latestdoi/334622375)
 
 ## Cite as
